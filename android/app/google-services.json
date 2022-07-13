@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46198246732",
+    "project_id": "firstfirebase-24e16",
+    "storage_bucket": "firstfirebase-24e16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46198246732:android:ee55560d00664414e313e9",
+        "android_client_info": {
+          "package_name": "Karon.com.example.firebasemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46198246732-l77n6qgab1vj7sk3ksrp8cc5fobc4ng8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWQH_C9MWJOwT8Pjro54zEMiiAk55gfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46198246732-l77n6qgab1vj7sk3ksrp8cc5fobc4ng8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
